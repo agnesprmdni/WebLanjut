@@ -11,7 +11,9 @@ class Helloworld extends BaseController {
 	}
 	public function show()
 	{
-		echo "Agnes Pramudani\n";
+		echo "Selamat Datang di Informasi Kucing!\n";
+		echo "Paww!\n";
+		echo "by: Agnes Pramudani\n";
 		echo "1857051004";
 	}
 }
